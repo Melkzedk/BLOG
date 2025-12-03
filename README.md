@@ -1,4 +1,4 @@
-# MY BLOG PERSONAL
+# MY PERSONAL BLOG 
 # PROJECT SCREENSHOTS
 ![Screenshot from 2022-04-17 10-34-47](https://user-images.githubusercontent.com/79189172/163705388-19c92f15-8ce0-49ab-8131-944facd9b3ba.png)
 ![Screenshot from 2022-04-17 10-34-53](https://user-images.githubusercontent.com/79189172/163705390-242e1652-6136-4874-9d8a-73683b4d55c5.png)
